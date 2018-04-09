@@ -1,0 +1,1 @@
+This assignment was to make sure we understand the differences between var and let. We also learned about scope and hoisting.
